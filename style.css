@@ -13,7 +13,7 @@
     height: 100%;
 }
 
-#canvas1 {
+#canvas {
     position: absolute;
     top: 0;
     left: 0;
@@ -21,7 +21,7 @@
     height: 100%;
 }
 
-#audio1 {
+#audio {
     width: 50%;
     margin: 50px auto;
     display: block;
